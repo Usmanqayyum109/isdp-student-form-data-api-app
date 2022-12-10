@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/isdp-student-form-data-api-app/static/css/main.f4284d58.css",
-    "main.js": "/isdp-student-form-data-api-app/static/js/main.52bac93d.js",
+    "main.css": "/isdp-student-form-data-api-app/static/css/main.4af98120.css",
+    "main.js": "/isdp-student-form-data-api-app/static/js/main.d697f388.js",
     "static/js/787.887bf41d.chunk.js": "/isdp-student-form-data-api-app/static/js/787.887bf41d.chunk.js",
     "static/media/brand-icons.svg": "/isdp-student-form-data-api-app/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/isdp-student-form-data-api-app/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -20,12 +20,12 @@
     "static/media/outline-icons.woff": "/isdp-student-form-data-api-app/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/isdp-student-form-data-api-app/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/isdp-student-form-data-api-app/index.html",
-    "main.f4284d58.css.map": "/isdp-student-form-data-api-app/static/css/main.f4284d58.css.map",
-    "main.52bac93d.js.map": "/isdp-student-form-data-api-app/static/js/main.52bac93d.js.map",
+    "main.4af98120.css.map": "/isdp-student-form-data-api-app/static/css/main.4af98120.css.map",
+    "main.d697f388.js.map": "/isdp-student-form-data-api-app/static/js/main.d697f388.js.map",
     "787.887bf41d.chunk.js.map": "/isdp-student-form-data-api-app/static/js/787.887bf41d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4284d58.css",
-    "static/js/main.52bac93d.js"
+    "static/css/main.4af98120.css",
+    "static/js/main.d697f388.js"
   ]
 }
