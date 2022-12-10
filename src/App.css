@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  background-color:#ffbf00;
+  color: #0041c2;
+   flex-direction: column; 
+   font-family: 'Montserrat', sans-serif;
+} 
+
+.create-form label{
+  color: black !important;
+  font-family: 'jameel noori nastaleeq regular';
+  font-size: 26px !important;  
+}
+
+.heading{
+  display: block;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #32cd32;
+}
+
+.input{
+  font-size: 15px;
+  width: 400px;
+  color: black;
+  display: block;
+  background-color: #f0e68c;
+}
+
+.input1{
+  color: black;
+  display: flex;
+  flex: row wrap;
+  background-color: #f0e68c;
+  color: #0041c2;
+  font-size: 8px;
+}
+
+.addmission{
+  display: block;
+  text-align: center;
+  background-color: #32cd32;
+}
+
+.name{
+  background-color: #ffbf00;
+}
+
+.answer{
+  background-color: #f0e68c;
+}
